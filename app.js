@@ -1,3 +1,16 @@
+function limpar() {
+    // Obtém o campo de pesquisa e a seção de resultados
+    let campoPesquisa = document.getElementById("campo-pesquisa");
+    let section = document.getElementById("resultados-pesquisa");
+    
+    // Limpa o valor do campo de pesquisa
+    campoPesquisa.value = "";
+    
+    // Limpa a seção de resultados
+    section.innerHTML = "";
+
+}
+
 function pesquisar() {
     // Obtém a seção HTML onde os resultados serão exibidos
     let section = document.getElementById("resultados-pesquisa");
