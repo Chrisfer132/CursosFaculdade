@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Encontre o curso dos seus sonhos com facilidade.">
+    <meta property="og:title" content="Cursos - Encontre o seu curso dos sonhos">
+    <meta property="og:description" content="Encontre o curso ideal para você com nossa ferramenta de busca.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="2681857.png" type="image/x-icon">
+    <title>Cursos de Faculdade</title>
+</head>
+<body>
+    <header>
+        <h1>Conheça o curso do seu sonho</h1>
+    </header>
+    <main class="container">
+        <section>
+            <input type="text" placeholder="Digite o nome do curso..." id="campo-pesquisa">
+        </section>
+        <section class="botao-container">
+            <button onclick="pesquisar()">Procurar</button>
+            <button onclick="limpar()">Limpar Busca</button>
+        </section>
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+        </section>
+    </main>
+    <footer>
+        <p>2024 - Curso dos seus sonhos. Todos os direitos reservados</p>
+        <a href="https://www.instagram.com/christian_fmg_/"><p>Developed by christian_fmg_</p></a>
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

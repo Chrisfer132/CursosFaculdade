@@ -1,0 +1,190 @@
+/* Importa a fonte Roboto do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Estiliza o corpo da página */
+body {
+    font-family: "Roboto", sans-serif;
+    background-image: url('imagem.jpg');
+    background-size: cover;
+    color: #333333;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+/* Estiliza o cabeçalho */
+/* Estiliza o cabeçalho */
+header {
+    color: #FFFFFF;
+    padding: 1rem 2rem;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Adiciona sombra ao cabeçalho */
+    box-sizing: border-box; /* Inclui padding na largura total */
+}
+
+h1 {
+    font-size: 2.5rem; /* Tamanho da fonte para telas maiores */
+    color: #E0F2F1;
+    margin: 0;
+    letter-spacing: 0.2rem;
+    font-weight: 700;
+    word-wrap: break-word; /* Quebra palavras longas para evitar corte */
+}
+
+/* Estiliza o conteúdo principal */
+.container {
+    margin-top: 6rem; /* Espaçamento abaixo do cabeçalho fixo */
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Estiliza as seções da página */
+section {
+    width: 90%; /* Largura das seções */
+    max-width: 600px; /* Largura máxima */
+    margin-bottom: 1rem; /* Espaçamento abaixo de cada seção */
+    text-align: center; /* Alinha o texto ao centro */
+}
+
+/* Estiliza os inputs dentro das seções */
+section input {
+    width: 100%; /* Largura completa */
+    max-width: 400px; /* Largura máxima */
+    border: 2px solid #004D40; /* Borda do input */
+    padding: 1rem; /* Espaçamento interno */
+    border-radius: 0.5rem; /* Borda arredondada */
+    margin-bottom: 0.5rem; /* Espaçamento abaixo dos inputs */
+    color: #333333; /* Cor do texto */
+    font-size: 1rem; /* Tamanho da fonte */
+    box-sizing: border-box; /* Inclui padding e border na largura total */
+}
+
+section input:focus {
+    border-color: #00796B; /* Muda a cor da borda quando o input está focado */
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1); /* Adiciona sombra ao input quando focado */
+}
+
+/* Estiliza os botões dentro das seções */
+section button {
+    padding: 0.8rem 1.2rem; /* Espaçamento interno do botão */
+    border: 2px solid #004D40; /* Borda do botão */
+    border-radius: 0.5rem; /* Borda arredondada */
+    background-color: #004D40; /* Cor de fundo do botão */
+    color: #FFFFFF; /* Cor do texto do botão */
+    font-size: 1rem; /* Tamanho da fonte */
+    cursor: pointer; /* Muda o cursor para indicar que é clicável */
+    transition: background-color 0.3s, border-color 0.3s; /* Transição suave para efeitos de hover */
+}
+
+section button:hover {
+    background-color: #00796B;
+    border-color: #00796B;
+}
+
+section button:active {
+    transform: translateY(0); /* Remove o efeito de elevação quando o botão é clicado */
+}
+
+/* Estiliza a caixa de resultados da pesquisa */
+.resultados-pesquisa {
+    width: 100%;
+    max-width: 600px;
+    height: 40vh;
+    overflow-y: auto;
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Estiliza cada item de resultado */
+.item-resultado {
+    background: #FAFAFA;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Estiliza os títulos dentro dos itens de resultado */
+.item-resultado h2 {
+    font-size: 1.2rem;
+    color: #004D40;
+    margin: 0 0 0.5rem;
+    font-weight: 700; /* Destaca o título */
+}
+
+/* Estiliza os links dentro dos itens de resultado */
+.item-resultado a {
+    text-decoration: none;
+    color: #00796B;
+}
+
+.botao-container {
+    display: flex;
+    justify-content: center; /* Centraliza os botões horizontalmente */
+    gap: 0.5rem; /* Espaçamento entre os botões */
+}
+
+/* Estiliza o rodapé da página */
+footer {
+    background-color: #bcc67f;
+    color: #000000;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    font-size: 0.9rem;
+}
+
+footer a {
+    color: black;
+}
+
+/* Adiciona consultas de mídia para dispositivos menores */
+@media (max-width: 768px) {
+
+    header {
+        padding: 1rem 1.5rem; /* Ajusta o padding para dispositivos menores */
+    }
+
+    h1 {
+        font-size: 1.8rem; /* Reduz o tamanho da fonte em dispositivos menores */
+    }
+
+    section input {
+        width: 90%;
+    }
+
+
+    section button {
+        width: 100%;
+        margin-bottom: 0.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        padding: 1rem 1rem; /* Ajusta o padding para telas muito pequenas */
+    }
+
+    h1 {
+        font-size: 1.5rem; /* Reduz ainda mais o tamanho da fonte */
+    }
+
+    section input {
+        font-size: 0.9rem;
+    }
+
+    section button {
+        font-size: 0.9rem;
+    }
+}
