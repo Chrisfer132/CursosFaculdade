@@ -13,13 +13,6 @@ let dados = [
     },
     
     {
-        titulo: "Agroecologia",
-        descricao: "O curso de Agroecologia combina conhecimentos de ciências agrárias com sustentabilidade. Ele te prepara para planejar e gerenciar sistemas agrícolas que respeitam o meio ambiente e promovem a produção de alimentos saudáveis e equilibrados.",
-        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/agroecologia",
-        tags: "Agroecologia ecologia agricultura sustentável"
-    },
-    
-    {
         titulo: "Agronegócio",
         descricao: "O curso de Agronegócio te prepara para atuar no planejamento, execução e controle das atividades agropecuárias, desde a produção até a comercialização. Você aprenderá sobre gestão, logística e economia rural, sendo uma excelente opção para quem quer atuar no setor agrícola.",
         link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/agronegocio",
@@ -36,7 +29,7 @@ let dados = [
     {
         titulo: "Antropologia",
         descricao: "O curso de Antropologia oferece uma compreensão profunda sobre a diversidade cultural, as relações humanas e a evolução das sociedades. Ele te prepara para estudar e entender as complexidades dos diferentes grupos humanos e seus costumes.",
-        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/antropologia",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/antropologia",
         tags: "Antropologia sociedade cultura diversidade"
     },
     
@@ -71,28 +64,28 @@ let dados = [
     {
         titulo: "Astronomia",
         descricao: "O curso de Astronomia te leva para um estudo aprofundado sobre o universo, suas estrelas, planetas e galáxias. Você vai aprender sobre física, matemática e tecnologia para desvendar os mistérios do cosmos e ampliar nosso conhecimento sobre o espaço sideral.",
-        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/astronomia",
+        link: "https://querobolsa.com.br/revista/astronomia-cursos-para-quem-e-fascinado-pelo-espaco",
         tags: "Astronomia espaço universo ciência"
     },
 
     {
         titulo: "Acupuntura",
         descricao: "O curso de Acupuntura oferece formação em uma prática milenar da medicina tradicional chinesa. O aluno aprenderá técnicas de inserção de agulhas para o tratamento de diversas condições de saúde, promovendo o equilíbrio energético e o bem-estar.",
-        link: "https://www.faculdadeunyleya.edu.br/cursos/graduacao/acupuntura",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/acupuntura",
         tags: "Acupuntura medicina alternativa saúde"
     },
     
     {
         titulo: "Agrimensura",
         descricao: "O curso de Agrimensura forma profissionais que atuam na medição e demarcação de terras, sendo essencial para projetos de engenharia, urbanismo e meio ambiente. É uma área que envolve geotecnologia, cartografia e legislação fundiária.",
-        link: "https://www.estudeadistancia.com.br/cursos-superiores/curso-superior-de-agrimensura-a-distancia",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/agrimensura",
         tags: "Agrimensura topografia cartografia geotecnologia"
     },
     
     {
         titulo: "Agrocomputação",
         descricao: "O curso de Agrocomputação une tecnologia e agricultura, formando profissionais capazes de implementar soluções digitais para otimizar a produção agrícola. O aluno aprende a utilizar big data, IoT e inteligência artificial para inovar no agronegócio.",
-        link: "https://www.souunit.com.br/noticias/agrocomputacao-e-o-futuro-do-agronegocio",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/agrocomputacao",
         tags: "Agrocomputação tecnologia agricultura digital inovação"
     },
     
@@ -127,14 +120,14 @@ let dados = [
     {
         titulo: "Alimentos",
         descricao: "O curso de Alimentos ensina a produção, conservação e controle de qualidade de alimentos industrializados. O profissional é essencial para garantir a segurança alimentar e a eficiência nos processos produtivos da indústria alimentícia.",
-        link: "https://portal.mackenzie.br/graduacao/sao-paulo/higienopolis/ciencias-sociais-aplicadas/ciencia-e-tecnologia-de-alimentos",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/alimentos",
         tags: "Alimentos ciência qualidade segurança industrial"
     },
     
     {
         titulo: "Análise de Dados",
         descricao: "O curso de Análise de Dados prepara profissionais para lidar com grandes volumes de informações, aplicando técnicas estatísticas e computacionais para extrair insights que auxiliam na tomada de decisões em diversos setores.",
-        link: "https://www.anhembi.br/graduacao/analise-e-ciencia-de-dados/",
+        link: "https://descomplica.com.br/faculdade/tecnologia/ciencia-de-dados/?utm_source=google&utm_medium=cpc&utm_campaign=psq-nonbrand-faculdade-cursos-teste-raio&utm_term=gradua%C3%A7%C3%A3o%20em%20an%C3%A1lise%20de%20dados&utm_content=tecnologia-ciencia-de-dados-teste-raio&gad_source=1&gclid=CjwKCAjw_4S3BhAAEiwA_64YhuTIyVU6rH1qjskzJ71SDxA6k3mNknVVFam9sU8U43TsuVgWJmrkNhoCoI8QAvD_BwE",
         tags: "Análise de Dados big data estatística ciência"
     },
     
@@ -258,186 +251,186 @@ let dados = [
     {
         titulo: "Biblioteconomia",
         descricao: "O curso de Biblioteconomia forma profissionais capacitados para organizar, gerenciar e preservar acervos bibliográficos e digitais. O aluno desenvolve habilidades em gestão da informação, curadoria de conteúdos e uso de tecnologias para catalogação e pesquisa.",
-        link: "https://www.febab.org.br/biblioteconomia-o-que-e",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/biblioteconomia",
         tags: "Biblioteconomia acervos bibliotecas gestão da informação"
     },
     
     {
         titulo: "Biologia",
         descricao: "O curso de Biologia oferece uma formação abrangente sobre os seres vivos, abordando desde a genética até a ecologia. O aluno aprende sobre o funcionamento dos organismos, sua evolução e interações com o meio ambiente, preparando-se para atuar em diversas áreas científicas.",
-        link: "https://www.ufrgs.br/cursos/graduacao/biologia",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/ciencias-biologicas",
         tags: "Biologia genética ecologia evolução seres vivos"
     },
     
     {
         titulo: "Biomedicina",
         descricao: "O curso de Biomedicina capacita profissionais para atuar em laboratórios de análises clínicas, pesquisa biomédica e diagnóstico de doenças. O aluno estuda microbiologia, imunologia, biologia molecular e outras áreas voltadas à saúde humana.",
-        link: "https://www.unip.br/cursos/biomedicina",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/biomedicina",
         tags: "Biomedicina análises clínicas diagnóstico saúde microbiologia"
     },
     
     {
         titulo: "Biotecnologia",
         descricao: "O curso de Biotecnologia forma profissionais que utilizam organismos vivos e sistemas biológicos para desenvolver produtos e tecnologias. O aluno aprende técnicas de manipulação genética, bioinformática e engenharia de bioprocessos, com aplicação na saúde, agricultura e indústria.",
-        link: "https://www.ufrgs.br/biotecnologia",
+        link: "https://www.todamateria.com.br/biotecnologia/",
         tags: "Biotecnologia genética bioinformática bioprocessos saúde"
     },
     
     {
         titulo: "Bioquímica",
         descricao: "O curso de Bioquímica estuda as reações químicas que ocorrem nos organismos vivos. O aluno aprende sobre a estrutura e função das biomoléculas, metabolismos, e como essas interações afetam processos biológicos, preparando-se para atuar em áreas como saúde, pesquisa e indústria.",
-        link: "https://www.ufscar.br/cursos/graduacao/bioquimica",
+        link: "https://www.educamaisbrasil.com.br/enem/biologia/bioquimica",
         tags: "Bioquímica biomoléculas metabolismo reações químicas saúde"
     },
     {
         titulo: "Banco de Dados",
         descricao: "O curso de Banco de Dados capacita profissionais para planejar, implementar e gerenciar sistemas de banco de dados. O aluno aprende técnicas de armazenamento, consulta e segurança da informação, essenciais para grandes corporações e startups.",
-        link: "https://www.animaeducacao.com.br/cursos/graduacao/banco-de-dados",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/banco-de-dados",
         tags: "Banco de Dados sistemas armazenamento segurança tecnologia"
     },
     
     {
         titulo: "Big Data e Inteligência Analítica",
         descricao: "O curso de Big Data e Inteligência Analítica ensina a manipular e analisar grandes volumes de dados para extrair insights e suportar decisões estratégicas. Os alunos desenvolvem habilidades em estatística, programação e ferramentas de análise de dados.",
-        link: "https://www.pucminas.br/PucVirtual/pos-graduacao/big-data-e-inteligencia-analitica",
+        link: "https://portal.uniasselvi.com.br/lista-cursos-graduacao/sp/guaruja/cursos/big-data-e-inteligencia-analitica/ead?gad_source=1&gclid=CjwKCAjw_4S3BhAAEiwA_64Yhp3W_nDAibPqiq3yK0ZtJRBiBBsEu5cE9mnw3RF4ANmj7eoeZfNVFBoCvREQAvD_BwE#!",
         tags: "Big Data dados inteligência analítica estatística análise"
     },
     
     {
         titulo: "Big Data no Agronegócio",
         descricao: "O curso de Big Data no Agronegócio forma profissionais para usar grandes volumes de dados e tecnologia avançada para melhorar a eficiência e a produtividade no setor agrícola. O aluno aprende a aplicar análises de dados na cadeia produtiva agroindustrial.",
-        link: "https://www.ufrgs.br/big-data-no-agronegocio",
+        link: "https://www.somativa.com.br/blog/analise-de-dados-big-data-e-data-science-no-agronegocio/#:~:text=A%20an%C3%A1lise%20de%20dados%20de,de%20manejo%20e%20outras%20vari%C3%A1veis.",
         tags: "Big Data Agronegócio tecnologia dados eficiência produtividade"
     },
     
     {
         titulo: "Biocombustíveis",
         descricao: "O curso de Biocombustíveis prepara profissionais para trabalhar com fontes de energia renováveis, como o etanol e o biodiesel. O aluno aprende sobre a produção, desenvolvimento e impacto ambiental dos biocombustíveis.",
-        link: "https://www.ifes.edu.br/cursos/biocombustiveis",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/biocombustiveis",
         tags: "Biocombustíveis energia renovável etanol biodiesel sustentabilidade"
     },
     
     {
         titulo: "Bioenergia",
         descricao: "O curso de Bioenergia forma profissionais para atuar no desenvolvimento e gestão de sistemas que produzem energia a partir de fontes biológicas, como biomassa e resíduos orgânicos. O aluno estuda desde o processo de conversão energética até o impacto ambiental.",
-        link: "https://www.ufabc.edu.br/graduacao/bioenergia",
+        link: "https://www.posgraduacao.fea.unicamp.br/?q=node/19#:~:text=PROGRAMA%20BIOENERGIA&text=Trata%2Dse%20de%20um%20programa,em%20institui%C3%A7%C3%B5es%20acad%C3%AAmicas%20e%20empresas.",
         tags: "Bioenergia biomassa resíduos energias renováveis sustentabilidade"
     },
     
     {
         titulo: "Bioinformática",
         descricao: "O curso de Bioinformática ensina a utilizar ferramentas computacionais para analisar dados biológicos, como sequências de DNA e proteínas. O aluno aprende a integrar biologia e tecnologia da informação para resolver problemas biotecnológicos.",
-        link: "https://www.ucs.br/site/graduacao/bioinformatica",
+        link: "https://www.iberdrola.com/inovacao/bioinformatica#:~:text=O%20QUE%20A%20BIOINFORM%C3%81TICA%20ESTUDA&text=Isto%20diz%20respeito%20especialmente%20%C3%A0s,processos%20biol%C3%B3gicos%20de%20forma%20te%C3%B3rica.",
         tags: "Bioinformática biologia computacional DNA proteínas tecnologia"
     },
     
     {
         titulo: "Biotecnologia",
         descricao: "O curso de Biotecnologia forma profissionais que utilizam organismos vivos e sistemas biológicos para desenvolver produtos e tecnologias. O aluno aprende técnicas de manipulação genética, bioinformática e engenharia de bioprocessos, com aplicação na saúde, agricultura e indústria.",
-        link: "https://www.ufrgs.br/biotecnologia",
+        link: "https://www.iberdrola.com/inovacao/o-que-e-biotecnologia",
         tags: "Biotecnologia genética bioinformática bioprocessos saúde"
     },
     
     {
         titulo: "Blockchain e Criptografia Digital",
         descricao: "O curso de Blockchain e Criptografia Digital forma especialistas na tecnologia de segurança e privacidade aplicada a transações digitais. O aluno aprende sobre criptografia, contratos inteligentes e a estrutura descentralizada das blockchains.",
-        link: "https://www.ibmec.br/cursos/blockchain-e-criptografia-digital",
+        link: "https://newtonpaiva.br/cursos/graduacao/blockchain-e-criptografia-digital/#:~:text=A%20gradua%C3%A7%C3%A3o%20em%20Blockchain%20e,gest%C3%A3o%20financeira%20no%20mundo%20digital.",
         tags: "Blockchain criptografia segurança contratos inteligentes tecnologia digital"
     },
     {
         titulo: "Cenografia",
         descricao: "O curso de Cenografia prepara profissionais para criar e executar projetos de cenários para teatro, cinema, TV e eventos. O aluno aprende a utilizar técnicas de design, iluminação e construção para criar ambientes que intensificam a narrativa.",
-        link: "https://www.sp.senac.br/jsp/default.jsp?newsID=DYNAMIC,oracle.br.dataservers.CourseDataServer,selectCourse&course=498&template=395.dwt&unit=NONE&testeira=473",
+        link: "https://enciclopedia.itaucultural.org.br/termo14352/cenografia#:~:text=A%20cenografia%20%C3%A9%20uma%20%C3%A1rea,disposi%C3%A7%C3%A3o%20desses%20itens%20no%20espa%C3%A7o.",
         tags: "Cenografia teatro cinema eventos design"
     },
     
     {
         titulo: "Ciência da Computação",
         descricao: "O curso de Ciência da Computação forma profissionais capacitados a desenvolver sistemas, softwares e algoritmos. O aluno aprende a programar, criar soluções computacionais e a trabalhar com inteligência artificial e análise de dados.",
-        link: "https://www.ufrgs.br/ciencia-da-computacao",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/ciencia-da-computacao",
         tags: "Ciência da Computação algoritmos programação software IA"
     },
     
     {
         titulo: "Ciências Biológicas",
         descricao: "O curso de Ciências Biológicas prepara profissionais para atuar no estudo e preservação dos seres vivos e dos ecossistemas. O aluno aprende sobre a biodiversidade, genética, ecologia e evolução, com foco em pesquisas e conservação.",
-        link: "https://www.usp.br/ciencias-biologicas",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/ciencias-biologicas",
         tags: "Ciências Biológicas ecologia genética biodiversidade evolução"
     },
     
     {
         titulo: "Ciências Contábeis",
         descricao: "O curso de Ciências Contábeis forma profissionais capacitados para atuar na gestão financeira de empresas, elaborando balanços e relatórios contábeis, além de trabalhar com auditorias e controladoria.",
-        link: "https://www.fecap.br/curso/ciencias-contabeis",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/ciencias-contabeis",
         tags: "Ciências Contábeis finanças contabilidade auditoria balanços"
     },
     
     {
         titulo: "Ciências Econômicas",
         descricao: "O curso de Ciências Econômicas capacita o aluno a analisar o funcionamento da economia, interpretar indicadores econômicos e desenvolver políticas para o crescimento sustentável. O profissional pode atuar em empresas, bancos e órgãos públicos.",
-        link: "https://www.insper.edu.br/ciencias-economicas",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/ciencias-economicas",
         tags: "Ciências Econômicas economia mercado políticas econômicas"
     },
     
     {
         titulo: "Ciências Sociais",
         descricao: "O curso de Ciências Sociais forma profissionais para analisar e compreender as relações humanas em sociedade. O aluno estuda sociologia, antropologia e ciência política, e pode atuar em ONGs, órgãos públicos e institutos de pesquisa.",
-        link: "https://www.ufrgs.br/ciencias-sociais",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/ciencias-sociais",
         tags: "Ciências Sociais sociologia antropologia política sociedade"
     },
     
     {
         titulo: "Cinema e Audiovisual",
         descricao: "O curso de Cinema e Audiovisual ensina técnicas de produção cinematográfica, desde o roteiro até a pós-produção. O aluno aprende a trabalhar com direção, montagem, som e iluminação para criar filmes e outras obras audiovisuais.",
-        link: "https://www.puc-rio.br/cinema-e-audiovisual",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/cinema-e-audiovisual",
         tags: "Cinema Audiovisual direção montagem som filmes"
     },
     
     {
         titulo: "Ciências Atuariais",
         descricao: "O curso de Ciências Atuariais capacita profissionais para analisar riscos e desenvolver planos de seguros e previdência. O aluno estuda estatística, economia e finanças, e pode atuar em seguradoras, bancos e órgãos públicos.",
-        link: "https://www.unb.br/ciencias-atuariais",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/ciencias-atuariais",
         tags: "Ciências Atuariais seguros previdência riscos estatística"
     },
     
     {
         titulo: "Composição e Regência",
         descricao: "O curso de Composição e Regência prepara profissionais para compor músicas e conduzir orquestras e corais. O aluno aprende teoria musical, harmonia, arranjo e técnicas de regência, podendo atuar em concertos e produções musicais.",
-        link: "https://www.musica.ufmg.br/composicao-e-regencia",
+        link: "http://www.escolademusica.ufba.br/composicao-e-regencia",
         tags: "Composição Regência música orquestra coral"
     },
     
     {
         titulo: "Computação",
         descricao: "O curso de Computação ensina a projetar, desenvolver e otimizar sistemas computacionais e soluções tecnológicas. O aluno aprende sobre programação, arquitetura de computadores e redes, podendo atuar em diferentes setores da tecnologia.",
-        link: "https://www.ufrgs.br/computacao",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/computacao",
         tags: "Computação programação redes arquitetura sistemas"
     },
     
     {
         titulo: "Computação e Robótica Educativa",
         descricao: "O curso de Computação e Robótica Educativa prepara o aluno para utilizar a robótica como ferramenta de ensino em escolas e outros ambientes educacionais. O aluno aprende sobre programação, automação e didática, criando soluções pedagógicas inovadoras.",
-        link: "https://www.usp.br/computacao-e-robotica-educativa",
+        link: "https://www.ufrgs.br/computacaorobotica/",
         tags: "Computação Robótica Educação didática inovação"
     },
     
     {
         titulo: "Comunicação e Marketing",
         descricao: "O curso de Comunicação e Marketing ensina a criar e gerenciar estratégias de comunicação e branding para empresas e produtos. O aluno aprende sobre comportamento do consumidor, publicidade e ferramentas de marketing digital.",
-        link: "https://www.mackenzie.br/graduacao/cursos/ciencias-sociais-aplicadas/comunicacao-e-marketing",
+        link: "https://institutolibano.com/pos-graduacao/empresarial/curso/comunicacao-e-marketing?utm_source=google&utm_medium=cpc&utm_campaign=054&gad_source=1&gclid=CjwKCAjw_4S3BhAAEiwA_64YhqxVZfYZNCjWQ9gscHy83r-lIjD6Hb8gJM2e-2NB_1EwtqPOaMq6qxoCZKgQAvD_BwE",
         tags: "Comunicação Marketing branding publicidade consumidor"
     },
     
     {
         titulo: "Comunicação Social",
         descricao: "O curso de Comunicação Social forma profissionais para atuar em áreas como jornalismo, publicidade, rádio e TV. O aluno aprende sobre técnicas de comunicação, produção de conteúdo e estratégias de mídia, preparando-se para o mercado digital e tradicional.",
-        link: "https://www.fafich.ufmg.br/comunicacao-social",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/comunicacao-social",
         tags: "Comunicação Social jornalismo publicidade mídia rádio TV"
     },
     {
         titulo: "Cafeicultura",
         descricao: "O curso de Cafeicultura prepara o aluno para atuar na produção e gestão de cafezais, desde o plantio até a colheita e comercialização. O aluno aprende sobre técnicas de cultivo, controle de pragas e qualidade do produto final.",
-        link: "https://www.cna.org.br/cafeicultura",
+        link: "https://www.unicerp.edu.br/cursos/graduacao/cafeicultura",
         tags: "Cafeicultura café cultivo agricultura"
     },
     
