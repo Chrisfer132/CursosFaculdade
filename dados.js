@@ -437,167 +437,122 @@ let dados = [
     {
         titulo: "Cibersegurança",
         descricao: "O curso de Cibersegurança ensina a proteger sistemas e redes de ataques cibernéticos. O aluno aprende sobre criptografia, firewall, detecção de ameaças e técnicas de segurança digital para proteger dados sensíveis.",
-        link: "https://www.infnet.edu.br/tecnologia/ciberseguranca",
+        link: "https://www.fiap.com.br/online/graduacao/tecnologo/defesa-cibernetica/?gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoEnT4OQ56FfkXkA_y6oC8rdFcoGCGG02sioWWHiXgprNsj-0yTv0KFRoCcU0QAvD_BwE",
         tags: "Cibersegurança segurança digital criptografia firewall"
     },
     
     {
         titulo: "Ciência de Dados",
         descricao: "O curso de Ciência de Dados capacita o aluno a coletar, organizar e interpretar grandes volumes de dados. O aluno aprende sobre estatística, programação e inteligência artificial, podendo atuar em diversos setores como tecnologia, saúde e finanças.",
-        link: "https://www.insper.edu.br/ciencia-de-dados",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/ciencia-de-dados",
         tags: "Ciência de Dados big data IA programação"
     },
     
     {
         titulo: "Cinema e Audiovisual",
         descricao: "O curso de Cinema e Audiovisual ensina técnicas de produção cinematográfica, desde o roteiro até a pós-produção. O aluno aprende a trabalhar com direção, montagem, som e iluminação para criar filmes e outras obras audiovisuais.",
-        link: "https://www.puc-rio.br/cinema-e-audiovisual",
+        link: "https://www.belasartes.br/graduacao/matriz-cursos-de-graduacao/cinema-e-audiovisual/",
         tags: "Cinema Audiovisual direção montagem som filmes"
     },
     
     {
         titulo: "Coach Digital",
         descricao: "O curso de Coach Digital ensina técnicas de coaching aplicadas ao ambiente digital. O aluno aprende a auxiliar profissionais a atingir metas, melhorar performance e aumentar a produtividade utilizando ferramentas e plataformas online.",
-        link: "https://www.faculddigital.com.br/coach-digital",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/coaching-digital",
         tags: "Coach Digital performance produtividade online"
-    },
-    
-    {
-        titulo: "Coaching e Mentoring",
-        descricao: "O curso de Coaching e Mentoring prepara o aluno para orientar pessoas no desenvolvimento pessoal e profissional. O aluno aprende sobre técnicas de coaching, escuta ativa, definição de metas e acompanhamento de resultados.",
-        link: "https://www.fgv.br/coaching-mentoring",
-        tags: "Coaching Mentoring desenvolvimento metas acompanhamento"
     },
     
     {
         titulo: "Coding",
         descricao: "O curso de Coding ensina o aluno a programar e desenvolver sistemas e aplicativos. O aluno aprende diversas linguagens de programação, algoritmos e como criar soluções tecnológicas para diferentes plataformas.",
-        link: "https://www.alura.com.br/formacao-coding",
+        link: "https://www.cruzeirodosulvirtual.com.br/graduacao/coding/?utm_source=google-search-perf&utm_medium=search&utm_campaign=perf_consideracao_regular_dsa_aquisicao_graduacao_cruzeiro-virtual_nacional_2024-2&utm_content=null_cpc_null_dinamico_conteudo-de-pagina_dsa_null_null_null&gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoEv3nm-wuaYMtcMFWT0jM0FUwkXXJBVWT6R_15_BDW3SzDQ-UHDF5whoCRiEQAvD_BwE",
         tags: "Coding programação algoritmos sistemas"
     },
     
     {
         titulo: "Comércio Exterior",
         descricao: "O curso de Comércio Exterior capacita o aluno para atuar na importação e exportação de produtos e serviços. O aluno aprende sobre negociações internacionais, acordos comerciais e estratégias de mercado global.",
-        link: "https://www.anhembi.br/cursos/comercio-exterior",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/comercio-exterior",
         tags: "Comércio Exterior exportação importação mercado global"
     },
     
     {
         titulo: "Computação em Nuvem",
         descricao: "O curso de Computação em Nuvem ensina o aluno a gerenciar, armazenar e processar dados na nuvem. O aluno aprende sobre serviços de nuvem como AWS, Azure e Google Cloud, e como criar soluções escaláveis para empresas.",
-        link: "https://www.senac.br/computacao-em-nuvem",
+        link: "https://online.professionalprogramsmit.com/cloud-devops-por?utm_source=Google&utm_medium=c&utm_term=computa%C3%A7%C3%A3o%20em%20nuvem%20faculdade&utm_location=1031638&utm_network=g&utm_campaign=B-365D_BR_GG_SE_MPE-CD.PT_BRAZIL_NONBRAND&utm_content=NONBRAND&gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoEsVAi0gRzyrtVngujrYPUm4pSEmRLYqR6zUOPitlGVOmpI-4cf4H1hoCnXAQAvD_BwE",
         tags: "Computação Nuvem AWS Azure Google Cloud"
     },
     
     {
         titulo: "Comunicação Assistiva",
         descricao: "O curso de Comunicação Assistiva prepara o aluno para criar soluções de comunicação acessíveis para pessoas com deficiência. O aluno aprende sobre tecnologias assistivas e como adaptar sistemas de comunicação para facilitar a inclusão.",
-        link: "https://www.senac.br/comunicacao-assistiva",
+        link: "https://vestibular.brasilescola.uol.com.br/guia-de-profissoes/comunicacao-assistiva.htm#:~:text=A%20Comunica%C3%A7%C3%A3o%20Assistiva%20(que%20tamb%C3%A9m,%C3%A0%20educa%C3%A7%C3%A3o%20e%20%C3%A0%20cultura.",
         tags: "Comunicação Assistiva inclusão acessibilidade"
     },
     
     {
         titulo: "Comunicação Digital",
         descricao: "O curso de Comunicação Digital ensina o aluno a criar estratégias de comunicação para o ambiente digital. O aluno aprende sobre marketing digital, mídias sociais e produção de conteúdo para plataformas online.",
-        link: "https://www.uff.br/comunicacao-digital",
+        link: "https://ecmi.fgv.br/curso/comunicacao-digital",
         tags: "Comunicação Digital marketing conteúdo mídias sociais"
     },
     
     {
         titulo: "Comunicação em Computação Gráfica",
         descricao: "O curso de Comunicação em Computação Gráfica ensina técnicas de criação visual para computação gráfica. O aluno aprende sobre design gráfico, animação, modelagem 3D e efeitos visuais aplicados a diversos tipos de mídia.",
-        link: "https://www.senac.br/comunicacao-computacao-grafica",
+        link: "https://voitto.com.br/blog/artigo/o-que-e-computacao-grafica",
         tags: "Computação Gráfica design animação modelagem 3D"
     },
     
-    {
-        titulo: "Comunicação em Mídias Digitais",
-        descricao: "O curso de Comunicação em Mídias Digitais capacita o aluno a trabalhar com produção e gerenciamento de conteúdo em plataformas digitais. O aluno aprende sobre redes sociais, produção audiovisual e estratégias de engajamento online.",
-        link: "https://www.ufmg.br/comunicacao-midias-digitais",
-        tags: "Mídias Digitais conteúdo engajamento audiovisual"
-    },
     
     {
         titulo: "Comunicação Institucional",
         descricao: "O curso de Comunicação Institucional ensina o aluno a gerenciar a comunicação interna e externa de empresas e organizações. O aluno aprende sobre assessoria de imprensa, gestão de crise e comunicação corporativa.",
-        link: "https://www.uff.br/comunicacao-institucional",
+        link: "https://voitto.com.br/blog/artigo/o-que-e-computacao-grafica",
         tags: "Comunicação Institucional corporativa assessoria gestão crise"
     },
     
-    {
-        titulo: "Conservação e Restauro",
-        descricao: "O curso de Conservação e Restauro prepara o aluno para preservar e restaurar obras de arte e patrimônio histórico. O aluno aprende sobre técnicas de restauração e conservação de materiais como pintura, escultura e arquitetura.",
-        link: "https://www.ufmg.br/conservacao-e-restauro",
-        tags: "Conservação Restauro patrimônio histórico arte"
-    },
     
     {
         titulo: "Construção Civil",
         descricao: "O curso de Construção Civil capacita o aluno a atuar na construção e gerenciamento de obras de edifícios e infraestrutura. O aluno aprende sobre técnicas de construção, materiais e segurança no trabalho.",
-        link: "https://www.ufmg.br/construcao-civil",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/construcao-civil",
         tags: "Construção Civil obras engenharia segurança"
     },
     
-    {
-        titulo: "Construção de Edifícios",
-        descricao: "O curso de Construção de Edifícios ensina o aluno a planejar e executar a construção de prédios residenciais e comerciais. O aluno aprende sobre técnicas de construção, gerenciamento de projetos e sustentabilidade.",
-        link: "https://www.ifsp.edu.br/construcao-de-edificios",
-        tags: "Construção Edifícios prédios planejamento sustentabilidade"
-    },
-    
-    {
-        titulo: "Construção Naval",
-        descricao: "O curso de Construção Naval prepara o aluno para projetar, construir e reparar embarcações de todos os tipos. O aluno aprende sobre técnicas de construção naval, materiais e equipamentos de navegação.",
-        link: "https://www.ufsc.br/construcao-naval",
-        tags: "Construção Naval embarcações engenharia navegação"
-    },
     
     {
         titulo: "Controle Ambiental",
         descricao: "O curso de Controle Ambiental capacita o aluno a desenvolver e aplicar técnicas para minimizar o impacto ambiental de atividades industriais. O aluno aprende sobre monitoramento ambiental, tratamento de resíduos e sustentabilidade.",
-        link: "https://www.fgv.br/controle-ambiental",
+        link: "https://blog.exati.com.br/controle-ambiental/",
         tags: "Controle Ambiental sustentabilidade resíduos monitoramento"
     },
     
     {
         titulo: "Controle de Obras",
         descricao: "O curso de Controle de Obras ensina o aluno a gerenciar e controlar todas as etapas de uma construção, garantindo que prazos e orçamentos sejam cumpridos. O aluno aprende sobre planejamento, gestão de projetos e técnicas de execução.",
-        link: "https://www.senac.br/controle-de-obras",
+        link: "https://www.produttivo.com.br/blog/controle-de-obras/#:~:text=Controle%20de%20obras%20%C3%A9%20um,de%20evitar%20desperd%C3%ADcios%20e%20atrasos.",
         tags: "Controle Obras construção gestão planejamento"
     },
     
     {
-        titulo: "Cosmetologia e Estética",
-        descricao: "O curso de Cosmetologia e Estética prepara o aluno para atuar na indústria de beleza e cosméticos. O aluno aprende sobre tratamentos estéticos, produtos de beleza e tecnologias aplicadas ao cuidado da pele e do corpo.",
-        link: "https://www.unip.br/cosmetologia-e-estetica",
-        tags: "Cosmetologia Estética beleza pele tratamentos"
-    },
-    
-    {
-        titulo: "Cozinha Contemporânea",
-        descricao: "O curso de Cozinha Contemporânea ensina o aluno a preparar pratos modernos e inovadores, utilizando técnicas de alta gastronomia. O aluno aprende sobre ingredientes, apresentações e como criar experiências gastronômicas únicas.",
-        link: "https://www.senac.br/cozinha-contemporanea",
-        tags: "Cozinha Contemporânea gastronomia pratos modernos inovação"
-    },
-    {
         titulo: "Ciências Agrícolas",
         descricao: "O curso de Ciências Agrícolas capacita o aluno a atuar na produção agrícola, com ênfase em técnicas de cultivo, manejo de solo, controle de pragas e otimização de colheitas. O estudante também aprende sobre o impacto ambiental e sustentabilidade na agricultura.",
-        link: "https://www.ufrj.br/graduacao/ciencias-agricolas",
+        link: "https://www.educamaisbrasil.com.br/educacao/carreira/conheca-mais-sobre-a-area-de-ciencias-agrarias",
         tags: "Ciências Agrícolas agricultura cultivo sustentabilidade solo"
     },
     
     {
         titulo: "Ciências da Natureza",
         descricao: "O curso de Ciências da Natureza oferece uma visão integrada das ciências biológicas, químicas e físicas, com foco na compreensão dos fenômenos naturais. Os alunos aprendem a trabalhar em educação científica, pesquisa e projetos voltados à sustentabilidade.",
-        link: "https://www.ifsp.edu.br/ciencias-da-natureza",
+        link: "https://querobolsa.com.br/revista/entenda-o-que-e-ciencias-da-natureza-e-suas-tecnologias#:~:text=As%20ci%C3%AAncias%20da%20natureza%20correspondem,a%20geologia%20e%20a%20astronomia.",
         tags: "Ciências da Natureza biologia química física fenômenos naturais"
     },
     
     {
         titulo: "Ciências Exatas",
         descricao: "O curso de Ciências Exatas oferece uma formação ampla nas áreas de matemática, física e química, capacitando o aluno a resolver problemas complexos com raciocínio lógico e quantitativo. O aluno também pode atuar em pesquisa, ensino e desenvolvimento tecnológico.",
-        link: "https://www.ufmg.br/ciencias-exatas",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/ciencias-exatas",
         tags: "Ciências Exatas matemática física química tecnologia"
     },
     
@@ -610,42 +565,36 @@ let dados = [
     {
         titulo: "Desenho Industrial",
         descricao: "O curso de Desenho Industrial foca na criação e desenvolvimento de produtos e soluções estéticas e funcionais. O aluno aprende a projetar desde utensílios do dia a dia até produtos tecnológicos, considerando usabilidade e impacto visual.",
-        link: "https://www.ufrj.br/graduacao/desenho-industrial",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/desenho-industrial",
         tags: "Desenho Industrial design produtos usabilidade"
     },
     
     {
         titulo: "Design",
         descricao: "O curso de Design proporciona uma formação abrangente em criação visual e soluções estéticas. O aluno aprende sobre design gráfico, de produtos, de interiores e digital, desenvolvendo habilidades para criar experiências visuais impactantes.",
-        link: "https://www.fumec.br/design",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/design",
         tags: "Design gráfico produto interiores digital"
     },
     
-    {
-        titulo: "Design de Ambientes",
-        descricao: "O curso de Design de Ambientes capacita o aluno a projetar espaços internos e externos, focando em estética, funcionalidade e conforto. O aluno aprende sobre planejamento de ambientes, uso de materiais e ergonomia.",
-        link: "https://www.pucpr.br/design-de-ambientes",
-        tags: "Design de Ambientes arquitetura interiores ergonomia"
-    },
     
     {
         titulo: "Design de Games",
         descricao: "O curso de Design de Games ensina o aluno a criar e desenvolver jogos digitais. O aluno aprende sobre design de personagens, cenários, mecânicas de jogo e experiência do usuário, além de técnicas de programação e animação.",
-        link: "https://www.unisinos.br/design-de-games",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/design-de-games",
         tags: "Design de Games jogos digitais personagens cenários"
     },
     
     {
         titulo: "Design de Interiores",
         descricao: "O curso de Design de Interiores prepara o aluno para criar e planejar ambientes internos, garantindo funcionalidade e estética. O aluno aprende sobre técnicas de decoração, iluminação, ergonomia e escolha de materiais.",
-        link: "https://www.fgv.br/design-de-interiores",
+        link: "hhttps://querobolsa.com.br/cursos-e-faculdades/design-de-interiores",
         tags: "Design de Interiores decoração iluminação ergonomia"
     },
     
     {
         titulo: "Design de Moda",
         descricao: "O curso de Design de Moda ensina o aluno a criar e desenvolver coleções de roupas e acessórios. O aluno aprende sobre técnicas de costura, modelagem, tendências de moda e gerenciamento de coleções.",
-        link: "https://www.senac.br/design-de-moda",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/design-de-moda",
         tags: "Design de Moda roupas modelagem tendências"
     },
     
@@ -659,402 +608,155 @@ let dados = [
     {
         titulo: "Design Digital",
         descricao: "O curso de Design Digital aborda a criação de soluções visuais para plataformas digitais. O aluno aprende sobre design de interfaces, experiência do usuário (UX), design responsivo e produção de conteúdo para web e aplicativos.",
-        link: "https://www.ufrgs.br/design-digital",
+        link: "https://querobolsa.com.br/carreiras-e-profissoes/designer-digital",
         tags: "Design Digital interfaces UX web aplicativos"
     },
     
     {
         titulo: "Design Gráfico",
         descricao: "O curso de Design Gráfico foca na criação de material visual para comunicação. O aluno aprende sobre tipografia, criação de logotipos, layout e produção de materiais impressos e digitais.",
-        link: "https://www.puc-rio.br/design-grafico",
+        link: "https://querobolsa.com.br/carreiras-e-profissoes/designer-grafico",
         tags: "Design Gráfico tipografia logotipos layout"
     },
     
-    {
-        titulo: "Direção",
-        descricao: "O curso de Direção capacita o aluno para atuar na criação e condução de produções audiovisuais. O aluno aprende sobre técnicas de direção de atores, planejamento de cenas, edição e a visão criativa necessária para a realização de filmes e vídeos.",
-        link: "https://www.fgv.br/direcao",
-        tags: "Direção produção audiovisual direção de atores edição"
-    },
     
     {
         titulo: "Direito",
         descricao: "O curso de Direito forma profissionais capacitados para atuar em diversas áreas jurídicas. O aluno aprende sobre legislação, direito constitucional, penal, civil e administrativo, preparando-se para a prática e a interpretação das leis.",
-        link: "https://www.unb.br/direito",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/direito",
         tags: "Direito legislação jurídico constitucional penal civil"
     },
     
     {
         titulo: "Dança",
         descricao: "O curso de Dança oferece formação em técnicas e estilos variados de dança, além de teoria e prática. O aluno aprende sobre coreografia, expressão corporal, performance e aspectos históricos e culturais da dança.",
-        link: "https://www.ufpb.br/danca",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/danca",
         tags: "Dança coreografia expressão corporal performance"
     },
     
     {
         titulo: "Desenvolvimento Rural",
         descricao: "O curso de Desenvolvimento Rural foca na melhoria das condições de vida e na sustentabilidade das áreas rurais. O aluno aprende sobre técnicas agrícolas, gestão rural, políticas públicas e desenvolvimento econômico para áreas rurais.",
-        link: "https://www.ufsc.br/desenvolvimento-rural",
+        link: "https://ascom.ufpa.br/index.php/cursos-da-ufpa/695-desenvolvimento-rural-bacharelado",
         tags: "Desenvolvimento Rural sustentabilidade agricultura gestão"
     },
     
     {
-        titulo: "Desenvolvimento Regional",
-        descricao: "O curso de Desenvolvimento Regional capacita o aluno a promover o crescimento e a melhoria das condições em diferentes regiões. O aluno aprende sobre planejamento regional, políticas públicas e estratégias de desenvolvimento econômico e social.",
-        link: "https://www.unisinos.br/desenvolvimento-regional",
-        tags: "Desenvolvimento Regional planejamento políticas públicas crescimento"
-    }, 
-    {
         titulo: "Data Science",
         descricao: "O curso de Data Science capacita o aluno a analisar e interpretar grandes volumes de dados para tomar decisões informadas. O aluno aprende sobre estatística, machine learning, programação e visualização de dados.",
-        link: "https://www.unicamp.br/data-science",
+        link: "https://www.fiap.com.br/online/graduacao/tecnologo/data-science/?gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoEhK_-4mEOQmZetUnMP8YLXa249_kIYU4Y2Ox3zOkm0mTzM4x77F_bxoCZeoQAvD_BwE",
         tags: "Data Science análise de dados machine learning estatística"
     },
     
     {
         titulo: "Defesa Cibernética",
         descricao: "O curso de Defesa Cibernética prepara o aluno para proteger sistemas e redes contra ataques cibernéticos. O aluno aprende sobre segurança da informação, criptografia, testes de penetração e estratégias de defesa.",
-        link: "https://www.ufrgs.br/defesa-cibernetica",
+        link: "https://www.fiap.com.br/online/graduacao/tecnologo/defesa-cibernetica/?gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoEjw3VWCA_F3EvClfcq8JqIyaWwm3Ei2EXuW7UXJ3aKMvoljf7dmudxoCdfMQAvD_BwE",
         tags: "Defesa Cibernética segurança da informação criptografia"
     },
     
-    {
-        titulo: "Defesa Médica Hospitalar",
-        descricao: "O curso de Defesa Médica Hospitalar ensina o aluno a gerenciar e proteger informações sensíveis em ambientes hospitalares. O aluno aprende sobre privacidade de dados, compliance e segurança em saúde.",
-        link: "https://www.fgv.br/defesa-medica-hospitalar",
-        tags: "Defesa Médica Hospitalar privacidade compliance segurança saúde"
-    },
-    
-    {
-        titulo: "Desenho de Animação",
-        descricao: "O curso de Desenho de Animação foca na criação e produção de animações para diversos meios, incluindo filmes e jogos. O aluno aprende técnicas de animação 2D e 3D, storyboard e desenvolvimento de personagens.",
-        link: "https://www.puc-rio.br/desenho-de-animacao",
-        tags: "Desenho de Animação animação 2D 3D storyboard personagens"
-    },
+
     
     {
         titulo: "Desenvolvimento Back-End",
         descricao: "O curso de Desenvolvimento Back-End capacita o aluno a criar e gerenciar a lógica de servidor de aplicações web. O aluno aprende sobre linguagens de programação, banco de dados e arquitetura de sistemas.",
-        link: "https://www.ufsc.br/desenvolvimento-backend",
+        link: "https://www.anhanguera.com/curso/desenvolvimento-back-end-tecnologo/",
         tags: "Desenvolvimento Back-End programação servidor banco de dados"
     },
     
-    {
-        titulo: "Desenvolvimento de Aplicativos para Dispositivos Móveis",
-        descricao: "O curso de Desenvolvimento de Aplicativos para Dispositivos Móveis ensina a criar aplicativos para plataformas móveis como iOS e Android. O aluno aprende sobre design de interfaces, programação mobile e integração com APIs.",
-        link: "https://www.unisinos.br/desenvolvimento-aplicativos-moveis",
-        tags: "Desenvolvimento de Aplicativos mobile iOS Android programação"
-    },
-    
-    {
-        titulo: "Desenvolvimento de Produtos Plásticos",
-        descricao: "O curso de Desenvolvimento de Produtos Plásticos foca na criação e produção de produtos feitos de plásticos. O aluno aprende sobre materiais, processos de fabricação e técnicas de design para produtos plásticos.",
-        link: "https://www.pucpr.br/desenvolvimento-produtos-plasticos",
-        tags: "Desenvolvimento de Produtos Plásticos fabricação design materiais"
-    },
+
     
     {
         titulo: "Desenvolvimento de Sistemas",
         descricao: "O curso de Desenvolvimento de Sistemas capacita o aluno a projetar e implementar sistemas de software. O aluno aprende sobre análise de requisitos, programação, teste e manutenção de sistemas.",
-        link: "https://www.ufmg.br/desenvolvimento-de-sistemas",
+        link: "https://portal.uniasselvi.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/ead?gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoEhiMmNRoyAT1xzV1lRJoLpXVYUZ-jopTOEdrG2vqvbI87DRBJcyo_BoC5U4QAvD_BwE",
         tags: "Desenvolvimento de Sistemas programação análise de requisitos software"
     },
     
     {
         titulo: "Desenvolvimento e Gestão de Startups",
         descricao: "O curso de Desenvolvimento e Gestão de Startups ensina a criar e gerenciar novas empresas. O aluno aprende sobre planejamento de negócios, modelagem de startups, estratégias de crescimento e financiamento.",
-        link: "https://www.unifor.br/desenvolvimento-gestao-startups",
+        link: "https://blog.contaazul.com/gestao-startups/#:~:text=completo%20para%20decolar.-,A%20gest%C3%A3o%20em%20startups%20obedece%20a%20uma%20l%C3%B3gica%20de%20disruptura,se%20descolar%20das%20estrat%C3%A9gias%20tradicionais.",
         tags: "Desenvolvimento e Gestão de Startups planejamento negócios modelagem"
     },
     
-    {
-        titulo: "Desenvolvimento Mobile",
-        descricao: "O curso de Desenvolvimento Mobile foca na criação de aplicativos e soluções para dispositivos móveis. O aluno aprende sobre desenvolvimento para iOS e Android, design de interfaces e otimização de performance.",
-        link: "https://www.ufrj.br/desenvolvimento-mobile",
-        tags: "Desenvolvimento Mobile iOS Android design performance"
-    },
-    
-    {
-        titulo: "Desenvolvimento para Internet",
-        descricao: "O curso de Desenvolvimento para Internet capacita o aluno a criar e manter websites e aplicações web. O aluno aprende sobre front-end, back-end, frameworks e melhores práticas para desenvolvimento web.",
-        link: "https://www.fgv.br/desenvolvimento-para-internet",
-        tags: "Desenvolvimento para Internet front-end back-end frameworks web"
-    },
+
     
     {
         titulo: "Desenvolvimento para Web",
         descricao: "O curso de Desenvolvimento para Web oferece formação em criação e manutenção de sites e aplicações web. O aluno aprende sobre HTML, CSS, JavaScript e frameworks modernos para desenvolvimento web.",
-        link: "https://www.unisinos.br/desenvolvimento-para-web",
+        link: "https://www.anhanguera.com/curso/desenvolvimento-web-tecnologo/",
         tags: "Desenvolvimento para Web HTML CSS JavaScript frameworks"
     },
     
     {
         titulo: "Design",
         descricao: "O curso de Design proporciona uma formação ampla em criação visual e soluções estéticas. O aluno aprende sobre design gráfico, de produtos, de interiores e digital, desenvolvendo habilidades para criar experiências visuais impactantes.",
-        link: "https://www.fumec.br/design",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/design",
         tags: "Design gráfico produto interiores digital"
     },
     
-    {
-        titulo: "Design Comercial",
-        descricao: "O curso de Design Comercial foca na criação de soluções visuais para o setor de vendas e marketing. O aluno aprende sobre branding, embalagens, material promocional e estratégias de design para o comércio.",
-        link: "https://www.ufrj.br/design-comercial",
-        tags: "Design Comercial branding embalagens marketing"
-    },
     
-    {
-        titulo: "Design de Animação",
-        descricao: "O curso de Design de Animação capacita o aluno a criar animações digitais para diferentes mídias. O aluno aprende sobre técnicas de animação, softwares especializados e princípios de design animado.",
-        link: "https://www.puc-rio.br/design-de-animacao",
-        tags: "Design de Animação animação digital técnicas softwares"
-    },
-    
-    {
-        titulo: "Design de Aplicações e Interfaces Digitais",
-        descricao: "O curso de Design de Aplicações e Interfaces Digitais ensina a criar interfaces intuitivas e eficazes para aplicativos e plataformas digitais. O aluno aprende sobre design de UX/UI, prototipagem e usabilidade.",
-        link: "https://www.ufsc.br/design-aplicacoes-interfaces-digitais",
-        tags: "Design de Aplicações UX/UI prototipagem usabilidade"
-    },
-    
-    {
-        titulo: "Design de Experiência e de Serviços",
-        descricao: "O curso de Design de Experiência e de Serviços foca na criação de experiências memoráveis e eficientes para usuários e clientes. O aluno aprende sobre design de serviços, jornada do cliente e inovação em experiências.",
-        link: "https://www.unifor.br/design-experiencia-servicos",
-        tags: "Design de Experiência serviços jornada cliente inovação"
-    },
-    
-    {
-        titulo: "Design de Games",
-        descricao: "O curso de Design de Games ensina o aluno a criar e desenvolver jogos digitais. O aluno aprende sobre design de personagens, cenários, mecânicas de jogo e experiência do usuário, além de técnicas de programação e animação.",
-        link: "https://www.unisinos.br/design-de-games",
-        tags: "Design de Games jogos digitais personagens cenários"
-    },
-    
-    {
-        titulo: "Design de Interiores",
-        descricao: "O curso de Design de Interiores prepara o aluno para criar e planejar ambientes internos, garantindo funcionalidade e estética. O aluno aprende sobre técnicas de decoração, iluminação, ergonomia e escolha de materiais.",
-        link: "https://www.fgv.br/design-de-interiores",
-        tags: "Design de Interiores decoração iluminação ergonomia"
-    },
-    
-    {
-        titulo: "Design de Moda",
-        descricao: "O curso de Design de Moda ensina o aluno a criar e desenvolver coleções de roupas e acessórios. O aluno aprende sobre técnicas de costura, modelagem, tendências de moda e gerenciamento de coleções.",
-        link: "https://www.senac.br/design-de-moda",
-        tags: "Design de Moda roupas modelagem tendências"
-    },
-    
-    {
-        titulo: "Design de Produto",
-        descricao: "O curso de Design de Produto capacita o aluno a criar produtos inovadores e funcionais. O aluno aprende sobre design industrial, prototipagem, ergonomia e desenvolvimento de produtos para diferentes mercados.",
-        link: "https://www.unifor.br/design-de-produto",
-        tags: "Design de Produto prototipagem inovação funcionalidade"
-    },
-    
-    {
-        titulo: "Design Editorial",
-        descricao: "O curso de Design Editorial foca na criação e produção de publicações impressas e digitais, como livros, revistas e jornais. O aluno aprende sobre layout, tipografia, e processos de impressão e publicação.",
-        link: "https://www.pucpr.br/design-editorial",
-        tags: "Design Editorial publicações layout tipografia"
-    },
-    
-    {
-        titulo: "Design Educacional",
-        descricao: "O curso de Design Educacional ensina a criar materiais e experiências de aprendizagem eficazes. O aluno aprende sobre design instrucional, tecnologias educacionais e métodos de ensino.",
-        link: "https://www.ufsc.br/design-educacional",
-        tags: "Design Educacional materiais aprendizagem design instrucional"
-    },
     
     {
         titulo: "Design Gráfico",
         descricao: "O curso de Design Gráfico foca na criação de material visual para comunicação. O aluno aprende sobre tipografia, criação de logotipos, layout e produção de materiais impressos e digitais.",
-        link: "https://www.puc-rio.br/design-grafico",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/design-grafico",
         tags: "Design Gráfico tipografia logotipos layout"
     },
-    
-    {
-        titulo: "DevOps",
-        descricao: "O curso de DevOps ensina a integrar desenvolvimento de software e operações de TI. O aluno aprende sobre automação, integração contínua, entrega contínua e práticas ágeis para melhorar a eficiência de operações de software.",
-        link: "https://www.ufrj.br/devops",
-        tags: "DevOps automação integração contínua entrega contínua"
-    },
-    
-    {
-        titulo: "Digital Influencer",
-        descricao: "O curso de Digital Influencer prepara o aluno para atuar como influenciador nas mídias digitais. O aluno aprende sobre criação de conteúdo, estratégias de engajamento, branding pessoal e marketing digital.",
-        link: "https://www.pucpr.br/digital-influencer",
-        tags: "Digital Influencer criação de conteúdo marketing digital engajamento"
-    },
-    
-    {
-        titulo: "Digital Security",
-        descricao: "O curso de Digital Security foca na proteção de dados e sistemas digitais. O aluno aprende sobre técnicas de segurança, criptografia, análise de vulnerabilidades e práticas para proteger informações contra ameaças digitais.",
-        link: "https://www.ufrgs.br/digital-security",
-        tags: "Digital Security proteção de dados criptografia segurança"
-    }, 
-    {
-        titulo: "Desenho",
-        descricao: "O curso de Desenho oferece formação nas técnicas fundamentais para criar representações visuais. O aluno aprende sobre técnicas de desenho a mão livre, uso de diferentes materiais e desenvolvimento de habilidades artísticas para diversas aplicações, como ilustração e design.",
-        link: "https://www.pucsp.br/desenho",
-        tags: "Desenho técnicas artísticas ilustração"
-    },
-    
-    {
-        titulo: "Desenho de Animação",
-        descricao: "O curso de Desenho de Animação capacita o aluno a criar animações digitais e tradicionais. O aluno aprende sobre técnicas de animação, storyboard, e desenvolvimento de personagens e cenários animados.",
-        link: "https://www.fgv.br/desenho-de-animacao",
-        tags: "Desenho de Animação animação digital storyboard personagens"
-    },
-    {
-        titulo: "E-Commerce",
-        descricao: "O curso de E-Commerce ensina como criar e gerenciar lojas virtuais e plataformas de venda online. O aluno aprende sobre estratégias de marketing digital, gestão de produtos, logística e atendimento ao cliente para o comércio eletrônico.",
-        link: "https://www.fgv.br/e-commerce",
-        tags: "E-Commerce lojas virtuais marketing digital gestão"
-    },
-    
-    {
-        titulo: "Educação e Processos de Trabalho: Alimentação Escolar",
-        descricao: "O curso de Educação e Processos de Trabalho: Alimentação Escolar capacita o aluno para gerir e melhorar os processos relacionados à alimentação nas escolas. O aluno aprende sobre nutrição, planejamento de cardápios, e gestão de serviços de alimentação.",
-        link: "https://www.ufsc.br/educacao-alimentacao-escolar",
-        tags: "Educação Alimentação Escolar nutrição gestão"
-    },
-    
-    {
-        titulo: "Educador Social",
-        descricao: "O curso de Educador Social prepara o aluno para atuar em contextos sociais e educacionais, promovendo a inclusão e o desenvolvimento social. O aluno aprende sobre técnicas de intervenção social, práticas pedagógicas e políticas públicas.",
-        link: "https://www.unicamp.br/educador-social",
-        tags: "Educador Social intervenção social inclusão desenvolvimento"
-    },
-    
-    {
-        titulo: "Eletrônica Automotiva",
-        descricao: "O curso de Eletrônica Automotiva foca na aplicação de eletrônica em veículos. O aluno aprende sobre sistemas eletrônicos automotivos, diagnóstico e reparo de componentes eletrônicos em automóveis.",
-        link: "https://www.pucpr.br/eletronica-automotiva",
-        tags: "Eletrônica Automotiva sistemas eletrônicos diagnóstico"
-    },
-    
+
+
     {
         titulo: "Eletrônica Industrial",
         descricao: "O curso de Eletrônica Industrial capacita o aluno a trabalhar com sistemas eletrônicos aplicados à indústria. O aluno aprende sobre controle automático, manutenção de equipamentos eletrônicos e automação industrial.",
-        link: "https://www.ufrj.br/eletronica-industrial",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/eletronica-industrial",
         tags: "Eletrônica Industrial controle automático automação"
     },
-    
-    {
-        titulo: "Eletrotécnica Industrial",
-        descricao: "O curso de Eletrotécnica Industrial foca na aplicação de conhecimentos eletrotécnicos em ambientes industriais. O aluno aprende sobre circuitos elétricos, manutenção e instalação de sistemas elétricos industriais.",
-        link: "https://www.unisinos.br/eletrotecnica-industrial",
-        tags: "Eletrotécnica Industrial circuitos manutenção sistemas elétricos"
-    },
-    
-    {
-        titulo: "Embelezamento e Imagem Pessoal",
-        descricao: "O curso de Embelezamento e Imagem Pessoal ensina técnicas para melhorar a aparência e a imagem pessoal. O aluno aprende sobre cuidados com a pele, maquiagem, penteados e outras práticas de embelezamento.",
-        link: "https://www.fgv.br/embelezamento-imagem-pessoal",
-        tags: "Embelezamento imagem pessoal maquiagem cuidados"
-    },
+ 
     
     {
         titulo: "Empreendedorismo",
         descricao: "O curso de Empreendedorismo capacita o aluno a criar e gerenciar novos negócios. O aluno aprende sobre planejamento de negócios, desenvolvimento de produtos, estratégias de mercado e gestão de startups.",
-        link: "https://www.pucpr.br/empreendedorismo",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/empreendedorismo",
         tags: "Empreendedorismo negócios startups planejamento"
     },
     
     {
         titulo: "Energias Renováveis",
         descricao: "O curso de Energias Renováveis foca na utilização e desenvolvimento de fontes de energia sustentáveis. O aluno aprende sobre tecnologias e práticas relacionadas a energia solar, eólica, hidrelétrica e outras fontes renováveis.",
-        link: "https://www.ufrgs.br/energias-renovaveis",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/energias-renovaveis",
         tags: "Energias Renováveis solar eólica sustentáveis"
     },
-    
-    {
-        titulo: "Escrita Criativa",
-        descricao: "O curso de Escrita Criativa ensina técnicas para desenvolver a habilidade de escrever ficção e não ficção de maneira original e envolvente. O aluno aprende sobre narrativa, criação de personagens, e estrutura de histórias.",
-        link: "https://www.unicamp.br/escrita-criativa",
-        tags: "Escrita Criativa narrativa personagens histórias"
-    },
-    
-    {
-        titulo: "Estética e Cosmética",
-        descricao: "O curso de Estética e Cosmética foca na aplicação de tratamentos estéticos e produtos cosméticos para cuidados com a pele e beleza. O aluno aprende sobre técnicas de estética, produtos cosméticos e gestão de clínicas de estética.",
-        link: "https://www.pucpr.br/estetica-cosmetica",
-        tags: "Estética Cosmética cuidados com a pele beleza"
-    },
-    
-    {
-        titulo: "Estilismo",
-        descricao: "O curso de Estilismo prepara o aluno para criar e desenvolver tendências de moda. O aluno aprende sobre design de roupas, criação de coleções, e o mercado da moda.",
-        link: "https://www.unifor.br/estilismo",
-        tags: "Estilismo moda design coleções"
-    },
-    
-    {
-        titulo: "Estradas",
-        descricao: "O curso de Estradas capacita o aluno para o planejamento, construção e manutenção de infraestruturas viárias. O aluno aprende sobre técnicas de engenharia, materiais para pavimentação e gestão de projetos de estradas.",
-        link: "https://www.ufpr.br/estradas",
-        tags: "Estradas engenharia pavimentação infraestruturas"
-    },
-    
-    {
-        titulo: "Eventos",
-        descricao: "O curso de Eventos foca no planejamento e gestão de eventos sociais e corporativos. O aluno aprende sobre organização de eventos, logística, comunicação e marketing para eventos.",
-        link: "https://www.fgv.br/eventos",
-        tags: "Eventos planejamento gestão logística comunicação"
-    },
-    {
-        titulo: "Educação do Campo",
-        descricao: "O curso de Educação do Campo forma profissionais para atuar em contextos rurais e educacionais, promovendo práticas pedagógicas adequadas às necessidades das comunidades do campo. O aluno aprende sobre metodologias de ensino, gestão escolar e políticas públicas para a educação rural.",
-        link: "https://www.ufrgs.br/educacao-do-campo",
-        tags: "Educação do Campo pedagogia rural gestão escolar"
-    },
+   
     
     {
         titulo: "Enfermagem",
         descricao: "O curso de Enfermagem capacita o aluno para fornecer cuidados de saúde a pacientes em diferentes contextos. O aluno aprende sobre práticas clínicas, administração de medicamentos, cuidados de enfermagem e ética profissional.",
-        link: "https://www.unifesp.br/enfermagem",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/enfermagem",
         tags: "Enfermagem cuidados saúde práticas clínicas"
     },
-    
-    {
-        titulo: "Engenharia Acústica",
-        descricao: "O curso de Engenharia Acústica foca na análise e controle do som e das vibrações. O aluno aprende sobre acústica arquitetônica, controle de ruído e design de ambientes acústicos.",
-        link: "https://www.ufrj.br/engenharia-acustica",
-        tags: "Engenharia Acústica acústica controle de ruído"
-    },
+   
     
     {
         titulo: "Engenharia Aeroespacial",
         descricao: "O curso de Engenharia Aeroespacial forma profissionais para projetar e desenvolver aeronaves e espaçonaves. O aluno aprende sobre aerodinâmica, sistemas de propulsão e tecnologias espaciais.",
-        link: "https://www.unicamp.br/engenharia-aeroespacial",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/engenharia-aeroespacial",
         tags: "Engenharia Aeroespacial aeronaves espaçonaves"
     },
     
-    {
-        titulo: "Engenharia Aeronáutica",
-        descricao: "O curso de Engenharia Aeronáutica foca no design e manutenção de aeronaves. O aluno aprende sobre sistemas de aviação, estrutura de aeronaves e tecnologias de voo.",
-        link: "https://www.ufsc.br/engenharia-aeronautica",
-        tags: "Engenharia Aeronáutica aviação manutenção aeronaves"
-    },
     
     {
         titulo: "Engenharia Agrícola",
         descricao: "O curso de Engenharia Agrícola combina conhecimentos de engenharia e agricultura para otimizar processos produtivos no campo. O aluno aprende sobre mecanização agrícola, sistemas de irrigação e gestão de propriedades rurais.",
-        link: "https://www.ufpr.br/engenharia-agricola",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/engenharia-agricola",
         tags: "Engenharia Agrícola mecanização irrigação gestão rural"
     },
     
-    {
-        titulo: "Engenharia Agroindustrial",
-        descricao: "O curso de Engenharia Agroindustrial forma profissionais para atuar na indústria de alimentos e produtos agrícolas. O aluno aprende sobre processamento de alimentos, controle de qualidade e gestão de plantas industriais.",
-        link: "https://www.pucrs.br/engenharia-agroindustrial",
-        tags: "Engenharia Agroindustrial processamento alimentos controle qualidade"
-    },
     
     {
         titulo: "Engenharia Agronômica",
         descricao: "O curso de Engenharia Agronômica foca na aplicação de técnicas científicas e tecnológicas para melhorar a produção agrícola. O aluno aprende sobre cultivo de plantas, manejo de solo e tecnologias de produção agrícola.",
-        link: "https://www.ufv.br/engenharia-agronomica",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/engenharia-agronomica",
         tags: "Engenharia Agronômica cultivo manejo solo tecnologias agrícolas"
     },
     
@@ -1068,98 +770,61 @@ let dados = [
     {
         titulo: "Engenharia Automotiva",
         descricao: "O curso de Engenharia Automotiva foca no design e desenvolvimento de veículos. O aluno aprende sobre sistemas automotivos, dinâmica de veículos e tecnologias de propulsão.",
-        link: "https://www.ufrj.br/engenharia-automotiva",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/engenharia-ambiental",
         tags: "Engenharia Automotiva design veículos sistemas automotivos"
     },
-    
-    {
-        titulo: "Engenharia Bioenergética",
-        descricao: "O curso de Engenharia Bioenergética trata do desenvolvimento e uso de fontes de energia renováveis e biocombustíveis. O aluno aprende sobre bioenergia, tecnologias de conversão e gestão de recursos energéticos.",
-        link: "https://www.unicamp.br/engenharia-bioenergetica",
-        tags: "Engenharia Bioenergética bioenergia biocombustíveis"
-    },
+  
     
     {
         titulo: "Engenharia Biomédica",
         descricao: "O curso de Engenharia Biomédica combina engenharia com ciências médicas para desenvolver tecnologias de saúde. O aluno aprende sobre dispositivos médicos, imaging e biomecânica.",
-        link: "https://www.pucpr.br/engenharia-biomedica",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/engenharia-biomedica",
         tags: "Engenharia Biomédica dispositivos médicos imaging biomecânica"
     },
     
     {
         titulo: "Engenharia Bioquímica",
         descricao: "O curso de Engenharia Bioquímica foca na aplicação de princípios químicos e biológicos para a produção de substâncias e produtos. O aluno aprende sobre processos bioquímicos, bioprocessos e engenharia de fermentação.",
-        link: "https://www.ufv.br/engenharia-bioquimica",
+        link: "https://www.educamaisbrasil.com.br/educacao/carreira/o-que-voce-precisa-saber-sobre-a-engenharia-bioquimica",
         tags: "Engenharia Bioquímica processos bioquímicos bioprocessos"
     },
-    
-    {
-        titulo: "Engenharia Biotecnológica",
-        descricao: "O curso de Engenharia Biotecnológica aborda a aplicação de biotecnologia para resolver problemas em áreas como saúde, agricultura e indústria. O aluno aprende sobre engenharia genética, bioprocessos e desenvolvimento de biotecnologias.",
-        link: "https://www.ufrgs.br/engenharia-biotecnologica",
-        tags: "Engenharia Biotecnológica biotecnologia engenharia genética bioprocessos"
-    },
-    
-    {
-        titulo: "Engenharia Cartográfica",
-        descricao: "O curso de Engenharia Cartográfica foca na criação e análise de mapas e dados geoespaciais. O aluno aprende sobre técnicas de cartografia, geoprocessamento e sistemas de informação geográfica (SIG).",
-        link: "https://www.unesp.br/engenharia-cartografica",
-        tags: "Engenharia Cartográfica cartografia geoprocessamento SIG"
-    },
+   
     
     {
         titulo: "Engenharia Civil",
         descricao: "O curso de Engenharia Civil prepara o aluno para projetar e construir infraestruturas como edifícios, pontes e estradas. O aluno aprende sobre estruturas, materiais de construção e gestão de obras.",
-        link: "https://www.puc-rio.br/engenharia-civil",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/engenharia-civil",
         tags: "Engenharia Civil construção estruturas materiais"
     },
     
     {
         titulo: "Engenharia da Computação",
         descricao: "O curso de Engenharia da Computação combina conhecimentos de engenharia e ciência da computação para desenvolver sistemas computacionais. O aluno aprende sobre hardware, software, redes e sistemas embarcados.",
-        link: "https://www.ufsc.br/engenharia-da-computacao",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/engenharia-de-computacao",
         tags: "Engenharia da Computação hardware software redes sistemas embarcados"
     },
+
     
-    {
-        titulo: "Engenharia da Mobilidade",
-        descricao: "O curso de Engenharia da Mobilidade foca em soluções para transporte e mobilidade urbana. O aluno aprende sobre sistemas de transporte, planejamento urbano e tecnologias de mobilidade.",
-        link: "https://www.unifor.br/engenharia-da-mobilidade",
-        tags: "Engenharia da Mobilidade transporte planejamento urbano"
-    },
-    
-    {
-        titulo: "Engenharia de Agrimensura",
-        descricao: "O curso de Engenharia de Agrimensura capacita o aluno a realizar medições e análises geoespaciais para diversas aplicações, como delimitação de propriedades e projetos de infraestrutura.",
-        link: "https://www.ufrj.br/engenharia-de-agrimensura",
-        tags: "Engenharia de Agrimensura medições geoespaciais projetos"
-    },
     
     {
         titulo: "Engenharia de Agronegócios",
         descricao: "O curso de Engenharia de Agronegócios prepara o aluno para gerenciar e otimizar cadeias produtivas do agronegócio. O aluno aprende sobre gestão, logística e tecnologias para o setor agrícola.",
-        link: "https://www.pucpr.br/engenharia-de-agronegocios",
+        link: "https://www.uff.br/?q=curso%2Fengenharia-de-agronegocios%2F90471%2Fbacharelado%2Fvolta-redonda",
         tags: "Engenharia de Agronegócios gestão logística tecnologias"
     },
     
     {
         titulo: "Engenharia de Alimentos",
         descricao: "O curso de Engenharia de Alimentos aborda o processamento, conservação e controle de qualidade de alimentos. O aluno aprende sobre tecnologias de alimentos, segurança alimentar e inovação em produtos alimentícios.",
-        link: "https://www.ufrgs.br/engenharia-de-alimentos",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/engenharia-de-alimentos",
         tags: "Engenharia de Alimentos processamento conservação qualidade"
     },
+   
     
     {
-        titulo: "Engenharia de Aquicultura",
-        descricao: "O curso de Engenharia de Aquicultura foca na produção e manejo de organismos aquáticos. O aluno aprende sobre técnicas de cultivo, manejo de viveiros e controle de qualidade na aquicultura.",
-        link: "https://www.ufv.br/engenharia-de-aquicultura",
-        tags: "Engenharia de Aquicultura cultivo manejo qualidade"
-    },
-    
-    {
-        titulo: "Engenharia de Automação",
+        titulo: "Engenharia de Controle e Automação",
         descricao: "O curso de Engenharia de Automação trata do desenvolvimento e implementação de sistemas automáticos para processos industriais e comerciais. O aluno aprende sobre controle automático, sistemas de automação e robótica.",
-        link: "https://www.unifesp.br/engenharia-de-automacao",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/engenharia-de-controle-e-automacaoo",
         tags: "Engenharia de Automação controle automático robótica sistemas"
     },
     
@@ -1180,7 +845,7 @@ let dados = [
     {
         titulo: "Engenharia de Biotecnologia",
         descricao: "O curso de Engenharia de Biotecnologia aplica princípios biológicos e tecnológicos para criar produtos e processos inovadores. O aluno aprende sobre biotecnologia aplicada, engenharia genética e desenvolvimento de novos produtos.",
-        link: "https://www.pucrs.br/engenharia-de-biotecnologia",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/engenharia-de-bioprocessos-e-biotecnologia",
         tags: "Engenharia de Biotecnologia biotecnologia aplicada engenharia genética"
     },
     
@@ -1285,7 +950,7 @@ let dados = [
     {
         titulo: "Engenharia de Software",
         descricao: "O curso de Engenharia de Software foca no desenvolvimento e manutenção de software. O aluno aprende sobre programação, engenharia de requisitos, e gestão de projetos de software.",
-        link: "https://www.pucrs.br/engenharia-de-software",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/engenharia-de-software",
         tags: "Engenharia de Software programação requisitos gestão"
     },
     
