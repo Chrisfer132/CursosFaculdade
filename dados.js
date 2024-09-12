@@ -1328,7 +1328,7 @@ let dados = [
     {
         titulo: "Gestão de Negócios",
         descricao: "O curso de Gestão de Negócios prepara profissionais para gerenciar e liderar empresas. Os alunos aprendem sobre planejamento estratégico, finanças, marketing e gestão de equipes.",
-        link: "https://www.pucpr.br/gestao-negocios",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/gestao-de-negocios",
         tags: "Gestão Negócios planejamento finanças marketing"
     },
     
@@ -1356,7 +1356,7 @@ let dados = [
     {
         titulo: "Gestão de Recursos Humanos",
         descricao: "O curso de Gestão de Recursos Humanos foca na administração e desenvolvimento de talentos em empresas. Os alunos aprendem sobre recrutamento, gestão de desempenho, treinamentos e estratégias para engajamento de funcionários.",
-        link: "https://www.unifesp.br/gestao-recursos-humanos",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/recursos-humanos",
         tags: "Gestão Recursos Humanos recrutamento desempenho treinamentos"
     },
     
@@ -1501,23 +1501,10 @@ let dados = [
     {
         titulo: "Jornalismo",
         descricao: "O curso de Jornalismo capacita os alunos a investigar, escrever e reportar notícias de forma ética e eficaz. Os estudantes aprendem técnicas de reportagem, redação e edição, além de compreender a dinâmica dos meios de comunicação e a importância do jornalismo na sociedade. O curso prepara profissionais para atuar em diferentes plataformas, como impressa, digital e audiovisual.",
-        link: "https://www.jornalismo.edu.br",
+        link: "https://www.educamaisbrasil.com.br/cursos-e-faculdades/jornalismo",
         tags: "Jornalismo reportagem redação mídia ética"
     },
-    {
-        titulo: "Informática",
-        descricao: "O curso de Informática oferece conhecimentos básicos e avançados sobre computação e tecnologia. Os alunos aprendem a operar e manter sistemas de computadores, desenvolver softwares e lidar com redes e segurança digital, preparando-os para enfrentar os desafios tecnológicos no mercado de trabalho.",
-        link: "https://www.informatica.edu.br",
-        tags: "Informática computação tecnologia sistemas redes"
-    },
-    
-    {
-        titulo: "Informática para Negócios",
-        descricao: "O curso de Informática para Negócios foca no uso da tecnologia para otimizar processos empresariais. Os alunos aprendem a implementar soluções tecnológicas que melhoram a eficiência e a gestão de recursos nas empresas, abrangendo áreas como gestão de dados, sistemas de informação e análise de negócios.",
-        link: "https://www.informatica-negocios.edu.br",
-        tags: "Informática para Negócios tecnologia empresarial gestão sistemas"
-    },
-    
+  
     {
         titulo: "Instalações Elétricas",
         descricao: "O curso de Instalações Elétricas ensina a projetar, instalar e manter sistemas elétricos em diferentes tipos de edificações. Os alunos aprendem sobre circuitos, segurança elétrica e regulamentações, preparando-os para atuar em projetos residenciais, comerciais e industriais.",
@@ -1535,7 +1522,7 @@ let dados = [
     {
         titulo: "Inteligência Artificial",
         descricao: "O curso de Inteligência Artificial foca no desenvolvimento de sistemas que simulam a inteligência humana. Os alunos aprendem sobre algoritmos, machine learning e redes neurais, capacitando-os a criar soluções tecnológicas inovadoras que aplicam IA em diversos contextos.",
-        link: "https://www.inteligencia-artificial.edu.br",
+        link: "https://www.fiap.com.br/graduacao/tecnologo/inteligencia-artificial/?gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoEip12guOwvxOjR6OlUrL9rC3LGpiPbsqjbzrPt_4WW0Ohbr2nteoWRoCpDUQAvD_BwE",
         tags: "Inteligência Artificial algoritmos machine learning redes neurais"
     },
     
@@ -1575,7 +1562,7 @@ let dados = [
     {
         titulo: "Letras",
         descricao: "O curso de Letras prepara os alunos para atuar na área da linguagem e literatura. Os estudantes exploram a gramática, a análise literária e a tradução, além de desenvolver habilidades de escrita e comunicação. O curso oferece uma compreensão profunda dos aspectos culturais e linguísticos das línguas estudadas.",
-        link: "https://www.letras.edu.br",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/letras",
         tags: "Letras linguística literatura gramática tradução"
     },
     
