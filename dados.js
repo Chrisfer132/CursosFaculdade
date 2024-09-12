@@ -1006,7 +1006,7 @@ let dados = [
     {
         titulo: "Engenharia Florestal",
         descricao: "O curso de Engenharia Florestal aborda a gestão e conservação de florestas e recursos naturais. O aluno aprende sobre silvicultura, manejo florestal e ecologia.",
-        link: "https://www.ufv.br/engenharia-florestal",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/engenharia-florestal",
         tags: "Engenharia Florestal silvicultura manejo ecologia"
     },
     
@@ -1075,21 +1075,21 @@ let dados = [
     {
         titulo: "Farmácia",
         descricao: "O curso de Farmácia forma profissionais capacitados para atuar na pesquisa, desenvolvimento, produção e comercialização de medicamentos e produtos de saúde. O aluno aprende sobre farmacologia, química medicinal, farmacotécnica e gestão de farmácias.",
-        link: "https://www.ufsc.br/farmacia",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/farmacia",
         tags: "Farmácia medicamentos farmacologia química medicinal"
     },
     
     {
         titulo: "Filosofia",
         descricao: "O curso de Filosofia proporciona uma compreensão aprofundada dos conceitos e teorias filosóficas. O aluno estuda grandes filósofos, teorias éticas, políticas e metafísicas, e desenvolve habilidades críticas e analíticas.",
-        link: "https://www.unicamp.br/filosofia",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/filosofia",
         tags: "Filosofia teorias éticas metafísicas crítica"
     },
     
     {
         titulo: "Física",
         descricao: "O curso de Física explora os princípios fundamentais que regem o universo, desde a mecânica clássica até a física moderna. O aluno aprende sobre teorias e experimentos em áreas como óptica, termodinâmica e física quântica.",
-        link: "https://www.ufrj.br/fisica",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/fisica",
         tags: "Física mecânica óptica termodinâmica física quântica"
     },
     
@@ -1126,59 +1126,27 @@ let dados = [
         link: "https://www.fitoterapia.com.br",
         tags: "Fitoterapia plantas medicinais tratamento saúde"
     },
-    
-    {
-        titulo: "Fotografia",
-        descricao: "O curso de Fotografia cobre técnicas de captura e edição de imagens. Os alunos aprendem sobre composição, iluminação, edição digital e desenvolvimento de um portfólio, além de explorar diferentes estilos e áreas da fotografia.",
-        link: "https://www.cursodefotografia.com.br",
-        tags: "Fotografia técnicas captura edição composição"
-    },
-    
-    {
-        titulo: "Fruticultura",
-        descricao: "O curso de Fruticultura ensina o cultivo e manejo de frutas. Os alunos aprendem sobre técnicas de plantio, cuidados com as culturas, controle de pragas e doenças, e estratégias para maximizar a produção e a qualidade das frutas.",
-        link: "https://www.fruticulturacurso.com.br",
-        tags: "Fruticultura cultivo manejo frutas"
-    },
-    
-    {
-        titulo: "Filosofia",
-        descricao: "O curso de Filosofia proporciona uma compreensão aprofundada dos conceitos e teorias filosóficas. O aluno estuda grandes filósofos, teorias éticas, políticas e metafísicas, e desenvolve habilidades críticas e analíticas.",
-        link: "https://www.unicamp.br/filosofia",
-        tags: "Filosofia teorias éticas metafísicas crítica"
-    },
-    
-    {
-        titulo: "Física",
-        descricao: "O curso de Física explora os princípios fundamentais que regem o universo, desde a mecânica clássica até a física moderna. O aluno aprende sobre teorias e experimentos em áreas como óptica, termodinâmica e física quântica.",
-        link: "https://www.ufrj.br/fisica",
-        tags: "Física mecânica óptica termodinâmica física quântica"
-    },
+ 
+
     {
         titulo: "Geografia",
         descricao: "O curso de Geografia estuda a interação entre o ambiente e as sociedades humanas. Os alunos aprendem sobre aspectos físicos, humanos e ambientais do planeta, incluindo cartografia, climatologia e planejamento territorial.",
-        link: "https://www.unicamp.br/geografia",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/geografia",
         tags: "Geografia ambiente cartografia climatologia planejamento"
     },
     
     {
         titulo: "Geologia",
         descricao: "O curso de Geologia explora a composição, estrutura e processos da Terra. Os alunos estudam minerais, rochas, fósseis e eventos geológicos, além de aprender sobre técnicas de exploração e análise geológica.",
-        link: "https://www.ufrj.br/geologia",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/geologia",
         tags: "Geologia rochas minerais fósseis análise"
     },
     
-    {
-        titulo: "Game Design",
-        descricao: "O curso de Game Design foca na criação e desenvolvimento de jogos digitais. Os alunos aprendem sobre design de personagens, narrativa, mecânicas de jogo e programação, além de técnicas de criação de experiências interativas.",
-        link: "https://www.cursodegamedesign.com.br",
-        tags: "Game Design desenvolvimento jogos programação narrativa"
-    },
     
     {
         titulo: "Gastronomia",
         descricao: "O curso de Gastronomia ensina técnicas culinárias e conhecimentos sobre a indústria alimentícia. Os alunos aprendem sobre preparação de pratos, segurança alimentar, gestão de cozinhas e tendências gastronômicas.",
-        link: "https://www.senac.br/gastronomia",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/gastronomia",
         tags: "Gastronomia culinária segurança alimentar gestão"
     },
     
