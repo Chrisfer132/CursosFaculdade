@@ -1824,7 +1824,7 @@ let dados = [
     {
         titulo: "Psicologia",
         descricao: "O curso de Psicologia forma profissionais para entender e tratar questões emocionais e comportamentais. Os alunos estudam teorias psicológicas, técnicas de terapia e psicopatologia, preparando-se para atuar em clínicas, hospitais e instituições de saúde mental.",
-        link: "https://www.psicologia.edu.br",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/psicologia",
         tags: "Psicologia terapia comportamento emocional saúde mental"
     },
     
@@ -2110,7 +2110,7 @@ let dados = [
     {
         titulo: "Química",
         descricao: "O curso de Química forma profissionais para atuar na pesquisa, desenvolvimento e aplicação de substâncias químicas. Os alunos aprendem sobre química orgânica, inorgânica, físico-química e analítica, preparando-se para trabalhar em laboratórios, indústrias e instituições de pesquisa.",
-        link: "https://www.quimica.edu.br",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/quimica",
         tags: "Química pesquisa desenvolvimento substâncias químicas laboratório"
     },
     
