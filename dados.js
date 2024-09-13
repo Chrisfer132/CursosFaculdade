@@ -1481,7 +1481,7 @@ let dados = [
     {
         titulo: "História",
         descricao: "O curso de História explora o desenvolvimento das sociedades ao longo do tempo. Os alunos estudam eventos, figuras importantes e contextos que moldaram o mundo atual, aprendendo a analisar e interpretar fontes históricas e a entender as dinâmicas sociais e políticas de diferentes períodos.",
-        link: "https://www.historia.edu.br",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/historia",
         tags: "História estudos sociedades eventos análise"
     },
     
@@ -1596,7 +1596,7 @@ let dados = [
     {
         titulo: "Matemática",
         descricao: "O curso de Matemática oferece uma formação sólida em teorias e práticas matemáticas. Os alunos estudam álgebra, cálculo, estatística e geometria, preparando-se para atuar em áreas como ensino, pesquisa e análise de dados, além de desenvolver habilidades analíticas e de resolução de problemas.",
-        link: "https://www.matematica.edu.br",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/ead-a-distancia/matematica/todos",
         tags: "Matemática álgebra cálculo estatística geometria"
     },
     
@@ -1617,7 +1617,7 @@ let dados = [
     {
         titulo: "Medicina Veterinária",
         descricao: "O curso de Medicina Veterinária foca no cuidado e tratamento de animais. Os alunos aprendem sobre doenças, terapias e cuidados preventivos para animais de diversas espécies, preparando-se para atuar em clínicas, hospitais e pesquisas veterinárias.",
-        link: "https://www.medicinaveterinaria.edu.br",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/medicina",
         tags: "Medicina Veterinária animais tratamento cuidados clínicas"
     },
     
@@ -1783,7 +1783,7 @@ let dados = [
     {
         titulo: "Odontologia",
         descricao: "O curso de Odontologia forma profissionais capacitados para diagnosticar e tratar doenças e problemas relacionados aos dentes e à saúde bucal. Os alunos aprendem sobre procedimentos clínicos, cirúrgicos, ortodontia, periodontia e saúde pública, preparando-se para atuar em consultórios, clínicas e hospitais.",
-        link: "https://www.odontologia.edu.br",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/odontologia",
         tags: "Odontologia saúde bucal dentista ortodontia periodontia"
     },
     
@@ -1803,7 +1803,7 @@ let dados = [
     {
         titulo: "Pedagogia",
         descricao: "O curso de Pedagogia forma profissionais para atuar na educação infantil e nos anos iniciais do ensino fundamental. Os alunos aprendem sobre teorias educacionais, metodologias de ensino, psicologia do desenvolvimento e práticas pedagógicas, preparando-se para trabalhar em escolas, creches e instituições de ensino.",
-        link: "https://www.pedagogia.edu.br",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/pedagogia",
         tags: "Pedagogia educação infantil ensino fundamental metodologias psicologia"
     },
     
