@@ -2169,26 +2169,7 @@ let dados = [
         link: "https://www.rochasornamentais.edu.br",
         tags: "Rochas Ornamentais extração processamento decoração construção"
     }, 
-    {
-        titulo: "Química",
-        descricao: "O curso de Química forma profissionais para atuar na pesquisa, desenvolvimento e aplicação de substâncias químicas. Os alunos aprendem sobre química orgânica, inorgânica, físico-química e analítica, preparando-se para trabalhar em laboratórios, indústrias e instituições de pesquisa.",
-        link: "https://www.quimica.edu.br",
-        tags: "Química pesquisa desenvolvimento substâncias químicas laboratório"
-    },
-    
-    {
-        titulo: "Qualidade de Vida na Contemporaneidade",
-        descricao: "O curso de Qualidade de Vida na Contemporaneidade aborda estratégias e práticas para promover o bem-estar e a qualidade de vida no mundo moderno. Os alunos exploram temas como saúde mental, qualidade de vida, e políticas públicas para melhorar as condições de vida das pessoas.",
-        link: "https://www.qualidadedevida.edu.br",
-        tags: "Qualidade de Vida bem-estar saúde mental políticas públicas"
-    },
-    
-    {
-        titulo: "Quiropraxia",
-        descricao: "O curso de Quiropraxia forma profissionais especializados na manipulação da coluna vertebral e sistema musculoesquelético para tratar e prevenir dores e disfunções. Os alunos aprendem técnicas de ajuste quiroprático, diagnóstico e reabilitação, preparando-se para trabalhar em clínicas e consultórios.",
-        link: "https://www.quiropraxia.edu.br",
-        tags: "Quiropraxia manipulação coluna vertebral diagnóstico reabilitação"
-    },
+
     {
         titulo: "Secretariado Executivo",
         descricao: "O curso de Secretariado Executivo forma profissionais para atuar em funções administrativas e de apoio executivo, incluindo a organização de agendas, elaboração de documentos e comunicação corporativa. Os alunos aprendem a gerenciar tarefas administrativas e a atuar como assistentes de alta direção.",
@@ -2240,7 +2221,7 @@ let dados = [
     {
         titulo: "Sistema de Informação",
         descricao: "O curso de Sistema de Informação prepara profissionais para gerenciar e implementar soluções tecnológicas em empresas. Os alunos aprendem sobre desenvolvimento de sistemas, análise de dados e gestão de TI, preparando-se para atuar em ambientes corporativos e de tecnologia.",
-        link: "https://www.sistemadeinformacao.edu.br",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/sistemas-de-informacao",
         tags: "Sistema de Informação desenvolvimento TI análise dados gestão"
     },
     {
@@ -2258,7 +2239,7 @@ let dados = [
     {
         titulo: "Sistemas para Internet",
         descricao: "O curso de Sistemas para Internet prepara profissionais para desenvolver e gerenciar soluções web. Os alunos aprendem sobre programação web, design de interfaces e segurança de dados, preparando-se para atuar em desenvolvimento de sites e aplicações online.",
-        link: "https://www.sistemasparainternet.edu.br",
+        link: "https://querobolsa.com.br/cursos-e-faculdades/sistemas-para-internet",
         tags: "Sistemas para Internet programação web design interfaces segurança"
     },
     {
